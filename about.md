@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm James.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently working at Salesforce. Moving to the Bay Area in July 2016.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jamestsweetman@gmail.com](mailto:jamestsweetman@gmail.com)
